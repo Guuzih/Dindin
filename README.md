@@ -1,4 +1,3 @@
-# Dindin
 # API Dindin
 
 Este é um projeto de API RESTful desenvolvido para gerenciar as finanças pessoais de usuários. Abaixo estão detalhadas as principais funcionalidades e requisitos do projeto.
